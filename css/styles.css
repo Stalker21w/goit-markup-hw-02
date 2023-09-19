@@ -47,8 +47,7 @@ body {
 }
 
 .header-logo span {
-    color: #2e2f42;
-    z
+    color: #2e2f42;z
 }
 
 .header-menu {
@@ -110,12 +109,10 @@ body {
 
 .main-btn:hover {
     background: #404bbf;
-    cursor: pointer;
 }
 
 .main-btn:focus {
     background: #404bbf;
-    cursor: pointer;
 }
 
 
